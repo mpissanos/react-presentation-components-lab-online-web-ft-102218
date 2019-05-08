@@ -2,7 +2,8 @@
 class SimpleComponent extends Component {
   
   state = {
-    mood: "happy"
+    mood: "happy",
+    
   }
   
   render() {
