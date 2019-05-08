@@ -1,2 +1,7 @@
 
-class SimpleComponent extends Component
+class SimpleComponent extends Component {
+  
+  render() {
+    
+  }
+}
