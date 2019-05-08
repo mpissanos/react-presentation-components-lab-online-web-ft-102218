@@ -8,7 +8,7 @@ class SimpleComponent extends Component {
   
   render() {
     return (
-      
+      <div>{props.mood}</div>
       )
   }
 }
